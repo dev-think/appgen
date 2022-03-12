@@ -1,0 +1,2 @@
+# appgen
+Generator of quint+
